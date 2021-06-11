@@ -1,8 +1,3 @@
 # qgisDesdeCero
 Taller práctico de QGIS
-
-## Instalación de QGIS para Ubuntu, Windows + OSGEOLIVE
-## Sobre el GIS
-## Proyectos e interfaz
-## Simbología
-
+Durante el mes de mayo del 2021 dimos en el Club del Software libre un taller introductorio de QGIS. 
