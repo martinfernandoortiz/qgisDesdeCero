@@ -1,3 +1,7 @@
 # qgisDesdeCero
-Taller práctico de QGIS
-Durante el mes de mayo del 2021 dimos en el Club del Software libre un taller introductorio de QGIS. 
+Clase 1 del Taller
+
+Los temas que vimos fueron: introducción a los gis, entorno gráfico,instalación
+
+Los materiales están acá:
+https://cloud.disroot.org/s/8Bbpsio7rFKbHEQ
